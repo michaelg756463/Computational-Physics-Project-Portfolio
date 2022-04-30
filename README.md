@@ -6,4 +6,11 @@ This Github Repository contains a collection of Juptyer Notebook files that pert
 ## Projects
 Below are links to each of the Juptyer Notebooks corresponding to its project. Brief descriptions of each project are given, but a more in depth introduction is given within each Jupyter Notebook. 
 
+* [Electron Flow in Copper Metal](https://www.google.com)
+* [Double Pendulum](https://www.google.com)
+* [Paper Toss Simulation](https://www.google.com)
+* [Chain of Oscillators](https://www.google.com)
+* [Radiative Electric Field](https://www.google.com)
+
+
 
